@@ -1,0 +1,624 @@
+{
+  "Kullanıcılar" : {
+    "Halime" : {
+      "kullaniciadi" : "Halime"
+    },
+    "Halime " : {
+      "kullaniciadi" : "Halime "
+    },
+    "Hasan" : {
+      "kullaniciadi" : "Hasan"
+    },
+    "Hasan " : {
+      "kullaniciadi" : "Hasan "
+    },
+    "Mahmut" : {
+      "kullaniciadi" : "Mahmut"
+    },
+    "Songü" : {
+      "kullaniciadi" : "Songü"
+    },
+    "Songül" : {
+      "kullaniciadi" : "Songül"
+    },
+    "eymen" : {
+      "kullaniciadi" : "eymen"
+    },
+    "inan" : {
+      "kullaniciadi" : "inan"
+    },
+    "salih" : {
+      "kullaniciadi" : "salih"
+    }
+  },
+  "Mesajlar" : {
+    "Halime" : {
+      "Hasan" : {
+        "-MQke0l-6SQHxwx88Z4C" : {
+          "from" : "Hasan",
+          "text" : "Aşkım"
+        },
+        "-MQke9XFXAXae_zGdg1s" : {
+          "from" : "Hasan",
+          "text" : "Nasılsın"
+        },
+        "-MQkeF2jz5Bs0nDT4cIM" : {
+          "from" : "Hasan",
+          "text" : "Seni seviyorum "
+        },
+        "-MQkvstdfxY6qJ_NL_9b" : {
+          "from" : "Hasan",
+          "text" : "Merhaba "
+        },
+        "-MQkvwsRysPQqez0Lb6j" : {
+          "from" : "Hasan",
+          "text" : "Df"
+        },
+        "-MQkvyjzleWC4MNZKdUR" : {
+          "from" : "Hasan",
+          "text" : "Dldş"
+        },
+        "-MQlSJaLqT8sbM715Chl" : {
+          "from" : "Hasan",
+          "text" : "Msms"
+        },
+        "-MQlSKNzWT8zMTlmsb65" : {
+          "from" : "Hasan",
+          "text" : "Nsms"
+        },
+        "-MQlSLXgVwnZupNEDo-t" : {
+          "from" : "Hasan",
+          "text" : "Mzms"
+        },
+        "-MQlSNPVq-MiTO3VG_Fw" : {
+          "from" : "Hasan",
+          "text" : "Merhaba dünya "
+        },
+        "-MQlSOAk2JnF7eMY88CA" : {
+          "from" : "Hasan",
+          "text" : "Mdmdm"
+        },
+        "-MQlSP7QP8rhXQQtlF3z" : {
+          "from" : "Hasan",
+          "text" : "Nsms"
+        }
+      }
+    },
+    "Halime " : {
+      "Hasan" : {
+        "-MQlTrQ-a7FfqaRFEiXn" : {
+          "from" : "Halime ",
+          "text" : "Hacı "
+        },
+        "-MQlTs8fqiQemNs9nO5z" : {
+          "from" : "Halime ",
+          "text" : "Nerdesin "
+        },
+        "-MQlTtERSuL2Ka_-QEE2" : {
+          "from" : "Halime ",
+          "text" : "Seni özledim "
+        },
+        "-MQlTuFFMhD2hJ8hOvi0" : {
+          "from" : "Halime ",
+          "text" : "Niye "
+        },
+        "-MQlTvKfC9zMNIAv5rWf" : {
+          "from" : "Halime ",
+          "text" : "Aramıyorsun "
+        },
+        "-MQlTwIMYRMuQtj3T1Og" : {
+          "from" : "Halime ",
+          "text" : "Eve "
+        },
+        "-MQlTwj3e6P-4wdzhp8i" : {
+          "from" : "Halime ",
+          "text" : "Gel "
+        },
+        "-MQlTxlp9nxeX5KxXTHJ" : {
+          "from" : "Halime ",
+          "text" : "Çabuk"
+        },
+        "-MQlTzR0D_k0LrR-wR-i" : {
+          "from" : "Halime ",
+          "text" : "Hadi"
+        },
+        "-MQlU-ssZ1QJL5CEI2-g" : {
+          "from" : "Halime ",
+          "text" : "Tamam "
+        }
+      }
+    },
+    "Hasan" : {
+      "Halime" : {
+        "-MQke0l-6SQHxwx88Z4C" : {
+          "from" : "Hasan",
+          "text" : "Aşkım"
+        },
+        "-MQke9XFXAXae_zGdg1s" : {
+          "from" : "Hasan",
+          "text" : "Nasılsın"
+        },
+        "-MQkeF2jz5Bs0nDT4cIM" : {
+          "from" : "Hasan",
+          "text" : "Seni seviyorum "
+        },
+        "-MQkvstdfxY6qJ_NL_9b" : {
+          "from" : "Hasan",
+          "text" : "Merhaba "
+        },
+        "-MQkvwsRysPQqez0Lb6j" : {
+          "from" : "Hasan",
+          "text" : "Df"
+        },
+        "-MQkvyjzleWC4MNZKdUR" : {
+          "from" : "Hasan",
+          "text" : "Dldş"
+        },
+        "-MQlSJaLqT8sbM715Chl" : {
+          "from" : "Hasan",
+          "text" : "Msms"
+        },
+        "-MQlSKNzWT8zMTlmsb65" : {
+          "from" : "Hasan",
+          "text" : "Nsms"
+        },
+        "-MQlSLXgVwnZupNEDo-t" : {
+          "from" : "Hasan",
+          "text" : "Mzms"
+        },
+        "-MQlSNPVq-MiTO3VG_Fw" : {
+          "from" : "Hasan",
+          "text" : "Merhaba dünya "
+        },
+        "-MQlSOAk2JnF7eMY88CA" : {
+          "from" : "Hasan",
+          "text" : "Mdmdm"
+        },
+        "-MQlSP7QP8rhXQQtlF3z" : {
+          "from" : "Hasan",
+          "text" : "Nsms"
+        }
+      },
+      "Halime " : {
+        "-MQlTrQ-a7FfqaRFEiXn" : {
+          "from" : "Halime ",
+          "text" : "Hacı "
+        },
+        "-MQlTs8fqiQemNs9nO5z" : {
+          "from" : "Halime ",
+          "text" : "Nerdesin "
+        },
+        "-MQlTtERSuL2Ka_-QEE2" : {
+          "from" : "Halime ",
+          "text" : "Seni özledim "
+        },
+        "-MQlTuFFMhD2hJ8hOvi0" : {
+          "from" : "Halime ",
+          "text" : "Niye "
+        },
+        "-MQlTvKfC9zMNIAv5rWf" : {
+          "from" : "Halime ",
+          "text" : "Aramıyorsun "
+        },
+        "-MQlTwIMYRMuQtj3T1Og" : {
+          "from" : "Halime ",
+          "text" : "Eve "
+        },
+        "-MQlTwj3e6P-4wdzhp8i" : {
+          "from" : "Halime ",
+          "text" : "Gel "
+        },
+        "-MQlTxlp9nxeX5KxXTHJ" : {
+          "from" : "Halime ",
+          "text" : "Çabuk"
+        },
+        "-MQlTzR0D_k0LrR-wR-i" : {
+          "from" : "Halime ",
+          "text" : "Hadi"
+        },
+        "-MQlU-ssZ1QJL5CEI2-g" : {
+          "from" : "Halime ",
+          "text" : "Tamam "
+        }
+      },
+      "Songül" : {
+        "-MQkwmUMR5DQ7Qr9kB0b" : {
+          "from" : "Hasan",
+          "text" : "Ben hasan"
+        },
+        "-MQkwrcoHgYGw8lLkieX" : {
+          "from" : "Hasan",
+          "text" : "Tamam "
+        },
+        "-MQkwvC6FD1R_ebDicrN" : {
+          "from" : "Hasan",
+          "text" : "Kızım nasılsın "
+        },
+        "-MQkx-Qx1JrF8CliUdUj" : {
+          "from" : "Hasan",
+          "text" : "Canım babam sen nasılsın "
+        },
+        "-MQkx1tkrcwEkzWjDpLO" : {
+          "from" : "Hasan",
+          "text" : "Neredesin"
+        },
+        "-MQlSS5YSElEWJefKrMH" : {
+          "from" : "Hasan",
+          "text" : "Nerdesin "
+        },
+        "-MQlSSykDwGWaKqubTcH" : {
+          "from" : "Hasan",
+          "text" : "Hasan "
+        },
+        "-MQlSTfCU3K6J25Vj3Qu" : {
+          "from" : "Hasan",
+          "text" : "Baba"
+        },
+        "-MQlSUwdWodxNY0V_ti5" : {
+          "from" : "Hasan",
+          "text" : "Smsm"
+        }
+      },
+      "salih" : {
+        "-MQlejzKZWEzekiaf9BM" : {
+          "from" : "salih",
+          "text" : "merhaba"
+        },
+        "-MQlelKxa9vt54i1XCfe" : {
+          "from" : "Hasan",
+          "text" : "Tamam "
+        },
+        "-MQlemmLiUgRbhiFuqpR" : {
+          "from" : "salih",
+          "text" : "nasılsın"
+        },
+        "-MQlenchnmr83pdY0zdT" : {
+          "from" : "Hasan",
+          "text" : "Sen "
+        },
+        "-MQlep49F35y2ph5-VuU" : {
+          "from" : "salih",
+          "text" : "merhaba"
+        },
+        "-MQlepgoEAtCeYDPQnu7" : {
+          "from" : "Hasan",
+          "text" : "Hjj"
+        },
+        "-MQleqYNSBjb4Yv8j36l" : {
+          "from" : "salih",
+          "text" : "fff"
+        },
+        "-MQles5uRL67I8usqwsB" : {
+          "from" : "Hasan",
+          "text" : "Hjj"
+        },
+        "-MQlesyudbF7Vthi4Tqx" : {
+          "from" : "salih",
+          "text" : "jjddn"
+        },
+        "-MQletRWbvrXni_lBygJ" : {
+          "from" : "Hasan",
+          "text" : "Hjj"
+        },
+        "-MQleua-Dj1PgZy4qRZM" : {
+          "from" : "salih",
+          "text" : "ff"
+        },
+        "-MQlevfAUqULyEXlFGRX" : {
+          "from" : "Hasan",
+          "text" : "Jk"
+        },
+        "-MQlgvVT1t2zWoE4200_" : {
+          "from" : "salih",
+          "text" : "bbv"
+        },
+        "-MQlgwSZvo4mLo-QKUwc" : {
+          "from" : "Hasan",
+          "text" : "Jj"
+        },
+        "-MQlgxB201zeGS0l3sqC" : {
+          "from" : "salih",
+          "text" : "ggg"
+        }
+      }
+    },
+    "Mahmut" : {
+      "inan" : {
+        "-MQme9PWFEfFMDTItXLz" : {
+          "from" : "Mahmut",
+          "text" : "slm"
+        }
+      },
+      "İnan" : {
+        "-MQmeB_tFUMsgicPv0w0" : {
+          "from" : "İnan",
+          "text" : "Aleykümselam "
+        },
+        "-MQmeD3GVdDiiLg-9s57" : {
+          "from" : "İnan",
+          "text" : "Tamam "
+        }
+      }
+    },
+    "Songü" : {
+      "salih" : {
+        "-MQlh0pm_NyOPqFDC3FF" : {
+          "from" : "salih",
+          "text" : "ggg"
+        }
+      }
+    },
+    "Songül" : {
+      "Hasan" : {
+        "-MQkwmUMR5DQ7Qr9kB0b" : {
+          "from" : "Hasan",
+          "text" : "Ben hasan"
+        },
+        "-MQkwrcoHgYGw8lLkieX" : {
+          "from" : "Hasan",
+          "text" : "Tamam "
+        },
+        "-MQkwvC6FD1R_ebDicrN" : {
+          "from" : "Hasan",
+          "text" : "Kızım nasılsın "
+        },
+        "-MQkx-Qx1JrF8CliUdUj" : {
+          "from" : "Hasan",
+          "text" : "Canım babam sen nasılsın "
+        },
+        "-MQkx1tkrcwEkzWjDpLO" : {
+          "from" : "Hasan",
+          "text" : "Neredesin"
+        },
+        "-MQlSS5YSElEWJefKrMH" : {
+          "from" : "Hasan",
+          "text" : "Nerdesin "
+        },
+        "-MQlSSykDwGWaKqubTcH" : {
+          "from" : "Hasan",
+          "text" : "Hasan "
+        },
+        "-MQlSTfCU3K6J25Vj3Qu" : {
+          "from" : "Hasan",
+          "text" : "Baba"
+        },
+        "-MQlSUwdWodxNY0V_ti5" : {
+          "from" : "Hasan",
+          "text" : "Smsm"
+        }
+      },
+      "salih" : {
+        "-MQlhA8beZxHqOkkQfRZ" : {
+          "from" : "Songül",
+          "text" : "Hh"
+        },
+        "-MQlhDZkifFQa8oNoFPQ" : {
+          "from" : "Songül",
+          "text" : "Hh"
+        },
+        "-MQlhF0soJv4Ze6xyXUj" : {
+          "from" : "Songül",
+          "text" : "Jj"
+        },
+        "-MQlhFnKaMcvmQQ8TtQs" : {
+          "from" : "salih",
+          "text" : "ifif"
+        },
+        "-MQlhGYm-qe5exYoahyv" : {
+          "from" : "salih",
+          "text" : "fiig"
+        },
+        "-MQlhHAC9XuukbCdR__M" : {
+          "from" : "Songül",
+          "text" : "Hhph"
+        }
+      }
+    },
+    "eymen" : {
+      "salih" : {
+        "-MQpVeWD6FdmrbIR3CSD" : {
+          "from" : "salih",
+          "text" : "sa"
+        },
+        "-MQpVgAKDguJjiLSZP8J" : {
+          "from" : "eymen",
+          "text" : "as"
+        },
+        "-MQpVikyTc9tubpNsYPT" : {
+          "from" : "salih",
+          "text" : "naslsn"
+        },
+        "-MQpVlJBIOK7313f3CPk" : {
+          "from" : "eymen",
+          "text" : "saol sen naslsn"
+        },
+        "-MQpVnQmEWo2zw5YhlwO" : {
+          "from" : "salih",
+          "text" : "iyiyim."
+        },
+        "-MQpVv6wyxJhMreNrsq9" : {
+          "from" : "salih",
+          "text" : "mobil ödevini yaptn mi?"
+        },
+        "-MQpVy7HLzGTCnKonnZ0" : {
+          "from" : "eymen",
+          "text" : "Evet bitirdim ya sen"
+        },
+        "-MQpW1Ey5_taEcd1MDo0" : {
+          "from" : "salih",
+          "text" : "bitti bende de"
+        },
+        "-MQpW5vIleHGxgqGoh49" : {
+          "from" : "salih",
+          "text" : "sunum kaldi"
+        },
+        "-MQpWAiXE3bsV4T76TeH" : {
+          "from" : "eymen",
+          "text" : "çok güzel\n"
+        },
+        "-MQpWCCmimTV8_w-wpSa" : {
+          "from" : "eymen",
+          "text" : "😄😄😄😄"
+        },
+        "-MQpWQnn2JP6Z5ogxesI" : {
+          "from" : "eymen",
+          "text" : "ne zaman teslim"
+        },
+        "-MQpWSSMsDom2Z36WAgJ" : {
+          "from" : "salih",
+          "text" : "bugün gece"
+        }
+      }
+    },
+    "salih" : {
+      "Hasan" : {
+        "-MQlejzKZWEzekiaf9BM" : {
+          "from" : "salih",
+          "text" : "merhaba"
+        },
+        "-MQlelKxa9vt54i1XCfe" : {
+          "from" : "Hasan",
+          "text" : "Tamam "
+        },
+        "-MQlemmLiUgRbhiFuqpR" : {
+          "from" : "salih",
+          "text" : "nasılsın"
+        },
+        "-MQlenchnmr83pdY0zdT" : {
+          "from" : "Hasan",
+          "text" : "Sen "
+        },
+        "-MQlep49F35y2ph5-VuU" : {
+          "from" : "salih",
+          "text" : "merhaba"
+        },
+        "-MQlepgoEAtCeYDPQnu7" : {
+          "from" : "Hasan",
+          "text" : "Hjj"
+        },
+        "-MQleqYNSBjb4Yv8j36l" : {
+          "from" : "salih",
+          "text" : "fff"
+        },
+        "-MQles5uRL67I8usqwsB" : {
+          "from" : "Hasan",
+          "text" : "Hjj"
+        },
+        "-MQlesyudbF7Vthi4Tqx" : {
+          "from" : "salih",
+          "text" : "jjddn"
+        },
+        "-MQletRWbvrXni_lBygJ" : {
+          "from" : "Hasan",
+          "text" : "Hjj"
+        },
+        "-MQleua-Dj1PgZy4qRZM" : {
+          "from" : "salih",
+          "text" : "ff"
+        },
+        "-MQlevfAUqULyEXlFGRX" : {
+          "from" : "Hasan",
+          "text" : "Jk"
+        },
+        "-MQlgvVT1t2zWoE4200_" : {
+          "from" : "salih",
+          "text" : "bbv"
+        },
+        "-MQlgwSZvo4mLo-QKUwc" : {
+          "from" : "Hasan",
+          "text" : "Jj"
+        },
+        "-MQlgxB201zeGS0l3sqC" : {
+          "from" : "salih",
+          "text" : "ggg"
+        }
+      },
+      "Songü" : {
+        "-MQlh0pm_NyOPqFDC3FF" : {
+          "from" : "salih",
+          "text" : "ggg"
+        }
+      },
+      "Songül" : {
+        "-MQlhA8beZxHqOkkQfRZ" : {
+          "from" : "Songül",
+          "text" : "Hh"
+        },
+        "-MQlhDZkifFQa8oNoFPQ" : {
+          "from" : "Songül",
+          "text" : "Hh"
+        },
+        "-MQlhF0soJv4Ze6xyXUj" : {
+          "from" : "Songül",
+          "text" : "Jj"
+        },
+        "-MQlhFnKaMcvmQQ8TtQs" : {
+          "from" : "salih",
+          "text" : "ifif"
+        },
+        "-MQlhGYm-qe5exYoahyv" : {
+          "from" : "salih",
+          "text" : "fiig"
+        },
+        "-MQlhHAC9XuukbCdR__M" : {
+          "from" : "Songül",
+          "text" : "Hhph"
+        }
+      },
+      "eymen" : {
+        "-MQpVeWD6FdmrbIR3CSD" : {
+          "from" : "salih",
+          "text" : "sa"
+        },
+        "-MQpVgAKDguJjiLSZP8J" : {
+          "from" : "eymen",
+          "text" : "as"
+        },
+        "-MQpVikyTc9tubpNsYPT" : {
+          "from" : "salih",
+          "text" : "naslsn"
+        },
+        "-MQpVlJBIOK7313f3CPk" : {
+          "from" : "eymen",
+          "text" : "saol sen naslsn"
+        },
+        "-MQpVnQmEWo2zw5YhlwO" : {
+          "from" : "salih",
+          "text" : "iyiyim."
+        },
+        "-MQpVv6wyxJhMreNrsq9" : {
+          "from" : "salih",
+          "text" : "mobil ödevini yaptn mi?"
+        },
+        "-MQpVy7HLzGTCnKonnZ0" : {
+          "from" : "eymen",
+          "text" : "Evet bitirdim ya sen"
+        },
+        "-MQpW1Ey5_taEcd1MDo0" : {
+          "from" : "salih",
+          "text" : "bitti bende de"
+        },
+        "-MQpW5vIleHGxgqGoh49" : {
+          "from" : "salih",
+          "text" : "sunum kaldi"
+        },
+        "-MQpWAiXE3bsV4T76TeH" : {
+          "from" : "eymen",
+          "text" : "çok güzel\n"
+        },
+        "-MQpWCCmimTV8_w-wpSa" : {
+          "from" : "eymen",
+          "text" : "😄😄😄😄"
+        },
+        "-MQpWQnn2JP6Z5ogxesI" : {
+          "from" : "eymen",
+          "text" : "ne zaman teslim"
+        },
+        "-MQpWSSMsDom2Z36WAgJ" : {
+          "from" : "salih",
+          "text" : "bugün gece"
+        }
+      }
+    }
+  }
+}

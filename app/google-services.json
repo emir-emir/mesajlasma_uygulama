@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806676441339",
+    "firebase_url": "https://mesajlasma-39656-default-rtdb.firebaseio.com",
+    "project_id": "mesajlasma-39656",
+    "storage_bucket": "mesajlasma-39656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806676441339:android:bffc35902459350d77e85e",
+        "android_client_info": {
+          "package_name": "com.example.sohbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806676441339-5u7m1g17ekrnf35pcmr8ff7q79tgorts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBS_6gNT17Zff5eiyliK8DpG-0TJISoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806676441339-5u7m1g17ekrnf35pcmr8ff7q79tgorts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
